@@ -1,0 +1,1 @@
+X <- model.matrix(~Fare + Sex_male + Sex_female + Pclass_1 + Pclass_2 + Pclass_3 + Fam_Abroad, full.imputed.exl.survived)
